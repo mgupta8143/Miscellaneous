@@ -19,7 +19,7 @@ def bfs(key, target):
     for n in q[0].neighbors:
       if n == target:
         return True
-      if not key in dic:
+      if not n in dic:
         q.appendleft(n)
       dic[n] = True
     q.pop()
