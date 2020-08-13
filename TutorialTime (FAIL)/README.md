@@ -1,8 +1,7 @@
 # tutorialtime README
 
-Basically, this was meant to be a tutorial extension in Vs Code where people could watch videos in a tab, but unfortunately VS Code doesnt have FFMPEG meaning such an extension isn't possible. You could technically use a FFMPEG.js library or some variant but the file size and the speed of the extension would be so horrendous and time-consuming, it wouldn't be helpful at all. That's why I stopped working on this project. See the following github issues for more info. 
-
-https://www.google.com/search?rlz=1C1CHBF_enUS876US876&ei=pZU1X4uXIdLE1QH_5L7wCw&q=ffmpeg+vscode&oq=ffmpeg+vscode&gs_lcp=CgZwc3ktYWIQAzICCAAyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoECAAQRzoECAAQQzoECAAQCjoFCAAQsQM6BQgAEJECUOwRWN4dYIIeaABwAXgAgAFdiAHIBpIBAjExmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwjL_bSV9pjrAhVSYjUKHX-yD74Q4dUDCAw&uact=5
+Basically, this was meant to be a tutorial extension in Vs Code where people could watch videos in a tab, but unfortunately VS Code doesnt have FFMPEG meaning such an extension isn't possible. You could technically use a FFMPEG.js library or some variant but the file size and the speed of the extension would be so horrendous and time-consuming, it wouldn't be helpful at all. That's why I stopped working on this project. See the following github issues for more info.
+https://github.com/microsoft/vscode/issues/100599
 https://github.com/microsoft/vscode/issues/54097
 
 
